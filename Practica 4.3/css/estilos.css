@@ -1,0 +1,18 @@
+.ct-series-a.ct-bar{
+    /*Colordelasbarrasdelaprimerserie*/
+    stroke:goldenrod;
+    /*Elanchodelasbarras*/
+    stroke-width:30px;
+}
+.ct-series-b.ct-bar{
+    /*Colordelasbarrasdelasegundaserie*/
+    stroke:royalblue;
+    /*Elanchodelasbarras*/
+    stroke-width:25px;
+}.temp-box{width:50px;
+}.temp{display:inline-flex;
+}.max{background-color:goldenrod;
+}.min{background-color:royalblue;
+}.subt{display:block;color:blueviolet;
+    font-size:large;
+}.centro{text-align:center;}
